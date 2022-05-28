@@ -1,0 +1,119 @@
+body{
+  background-image: url(spacenice.jpg)
+}
+.titulo{
+  display: flex;
+  flex-direction:column;
+  align-items:center;
+  width: 99;
+  height: 100%;
+  border:solid;
+  color: white;
+
+}
+.nombre{
+  display: flex;
+  flex-direction:column;
+  align-items:center;
+  width: 99;
+  height: 100%;
+  color: white; 
+}
+
+.bigbang2{
+ width: 40%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border:solid white;
+}
+ .sistemasolar{
+  width: 40%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+   border:solid white;
+   mercurio.jpg
+ } 
+ .mercurio{
+  width: 35%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+   border:solid white;  
+}
+.venus {
+  width: 35%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+   border:solid white; 
+}
+.tierra{
+ width: 40%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+   border:solid white;  
+}
+.marte{
+  width: 35%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+   border:solid white; 
+}
+.jupiter{
+  width: 35%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+   border:solid white; 
+}
+.saturno{
+  width: 40%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+   border:solid white; 
+}
+.urano{
+  width: 35%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+   border:solid white; 
+}
+.neptuno{
+  width: 35%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+   border:solid white; 
+}
+.pluton{
+  width: 35%; 
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border:solid white;
+}
+
+
+
+
+
+
+
+
